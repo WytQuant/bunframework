@@ -5,7 +5,7 @@ before run this project, please create file `.env` and inside `.env` file should
     DSN=root:password@/yourdatabase
 ```
 
-then please run command below in you terminal:
+then please run command below in your terminal:
 ```
 air
 ```
